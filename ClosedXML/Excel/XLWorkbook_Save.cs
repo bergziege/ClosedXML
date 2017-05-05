@@ -49,7 +49,7 @@ namespace ClosedXML.Excel
 {
     public partial class XLWorkbook
     {
-        private const Double ColumnWidthOffset = 0.710625;
+        private const Double ColumnWidthOffset = 0;
 
         //private Dictionary<String, UInt32> sharedStrings;
         //private Dictionary<IXLStyle, StyleInfo> context.SharedStyles;
